@@ -20,6 +20,16 @@ body {
 
 }
 
+.button {
+    background-color: aqua;
+}
+
+.top {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
 .header {
     background-color: transparent;
     border-radius: 20px 20px 0 0;
